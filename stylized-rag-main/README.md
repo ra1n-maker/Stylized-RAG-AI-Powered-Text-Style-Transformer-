@@ -45,7 +45,7 @@ Transform your text into different writing styles using AI! This Streamlit appli
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Sahana24/stylized-rag.git
+git clone https://github.com/yourusername/multi-agent-meal-planning.git
 cd stylized-rag
 ```
 
